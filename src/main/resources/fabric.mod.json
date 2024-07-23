@@ -13,7 +13,7 @@
 		"sources": ""
 	},
 	"license": "MIT",
-	"icon": "assets/expandedgreendye/icon.png",
+	"icon": "assets/expanded_green_dye/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
