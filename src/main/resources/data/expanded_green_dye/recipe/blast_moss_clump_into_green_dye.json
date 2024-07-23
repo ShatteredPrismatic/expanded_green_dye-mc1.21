@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "expanded_green_dye:moss_clump"
+  },
+  "result": {
+    "id": "minecraft:green_dye"
+  }
+}

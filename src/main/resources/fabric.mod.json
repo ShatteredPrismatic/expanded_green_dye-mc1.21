@@ -8,9 +8,9 @@
 		"ShatteredPrismYT"
 	],
 	"contact": {
-		"homepage": "",
-		"email": "",
-		"sources": ""
+		"homepage": "https://modrinth.com/project/expanded-green-dye",
+		"email": "rubysystem404@gmail.com",
+		"sources": "https://github.com/ShatteredPrismatic/expanded_green_dye-mc1.21"
 	},
 	"license": "MIT",
 	"icon": "assets/expanded_green_dye/icon.png",

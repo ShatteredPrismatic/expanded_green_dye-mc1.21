@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:moss_carpet"
+    }
+  ],
+  "result": {
+    "id": "expanded_green_dye:moss_clump",
+    "count": 4
+  }
+}
