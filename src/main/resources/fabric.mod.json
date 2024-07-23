@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "expanded_green_dye",
+	"version": "1.0.0",
+	"name": "Expanded Green Dye",
+	"description": "Have you ever needed green dye for a project, but couldn't find any cacti around? Well, this mod is for you! This mod enables you to craft \"moss clumps\" from vines, moss, and moss carpets, which can be smelted down into green dye!",
+	"authors": [
+		"ShatteredPrismYT"
+	],
+	"contact": {
+		"homepage": "",
+		"email": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/expandedgreendye/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.expandedgreendye.ExpandedGreenDye"
+		],
+		"client": [
+			"com.expandedgreendye.ExpandedGreenDyeClient"
+		],
+		"fabric-datagen": [
+			"com.expandedgreendye.ExpandedGreenDyeDataGenerator"
+		]
+	},
+	"mixins": [
+		"expandedgreendye.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
